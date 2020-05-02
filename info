@@ -1,0 +1,19 @@
+felhasznált irodalom:
+Tree-shaking:
+https://webpack.js.org/guides/tree-shaking/
+https://webpack.js.org/api/stats/
+
+Output:
+https://webpack.js.org/guides/output-management/#cleaning-up-the-dist-folder
+https://webpack.js.org/guides/output-management/#the-manifest
+
+Development:
+https://github.com/webpack/webpack-dev-server
+https://webpack.js.org/configuration/dev-server/
+https://webpack.js.org/guides/development/#using-source-maps
+
+Side effect:
+https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free
+
+Code splitting:
+https://webpack.js.org/guides/code-splitting/#prevent-duplication
